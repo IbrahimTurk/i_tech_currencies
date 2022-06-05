@@ -17,7 +17,7 @@
         "static/payment.xml",
     ],
     'demo': [],
-    'Images': ['static/description/Currencies.gif'],
+    'Images': ['static/description/c.gif'],
     'installable': True,
     'application': True,
     'auto_install': False,
